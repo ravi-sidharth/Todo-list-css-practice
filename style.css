@@ -1,0 +1,56 @@
+
+.image {
+    background-image: url("https://img.freepik.com/free-photo/silhouettes-trees-people-wood_1232-294.jpg?t=st=1713848370~exp=1713851970~hmac=9f764670e28d7bf8f909ac6a4a0f0f8a993ed5e7ec28c3c0ebfff5226655811a&w=900");
+    background-size:cover;
+    width: 320px;
+    height:500px;
+   
+
+}
+
+
+.container {
+    height: 600px;
+    width:500px;
+   padding-left:150px;
+   padding-bottom: 150px;
+   padding-top: 150px;
+    border: 1px solid black;
+   margin: 100px auto;
+
+}
+
+.title {
+ text-align: center;
+ color: white;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+   font-weight: 800;
+}
+
+h4,p {
+    color: white;
+}
+
+a {
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+}
+
+button {
+    background-color: rgba(239, 151, 9, 0.886);
+    
+}
+
+.footer {
+    display: flex;
+    justify-content:center;
+}
+
+.top {
+    margin-left:120px;
+}
